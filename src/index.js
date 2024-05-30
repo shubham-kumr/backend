@@ -2,6 +2,7 @@ import dotenv from "dotenv"
 // import mongoose from 'mongoose';
 // import { DB_NAME } from './constants';
 import connectToDB from './db/mongoose_connect.js';
+import app from './app.js'
 
 dotenv.config({
     path: './env'
@@ -22,6 +23,7 @@ connectToDB()
 .catch((err) => {
     console.log("MONGO_DB CONNECTION FAILED!! ", err);
 })
+
 
 
 
