@@ -2,6 +2,11 @@
 
 This is a backend project for learning purposes. It aims to demonstrate various concepts and techniques related to backend development.
 
+## Resources
+- [Youtube Video Part 1](https://youtu.be/7fjOw8ApZ1I?si=0K4P4X6RAr-3NDcD)
+- [Youtube Video Part 2](https://youtu.be/8k-kK3tsJFY?si=QZcE2XMlGsihpZpU)
+- [Model](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
